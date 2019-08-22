@@ -10,6 +10,8 @@ template: '{"NAME":"TL SS01S Swtch","GPIO":[0,0,0,0,52,158,0,0,21,17,0,0,0],"FLA
 link_alt: 
 ---
 
+Using 6.6.0.5 core 2.4.3 resulted in some of these switches not showing the power state with 'status 11', switching to 6.6.0.5 core 2.3.0 solved this issue.
+
 
 
 
